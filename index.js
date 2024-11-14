@@ -7,5 +7,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(process.env.PORT || 3000, 'localhost', () => {
-  console.log(`server listen at: ${process.env.PORT || 3000}`);
+  console.log(`server listen at: ${.env.PORT || 3000}`);
 });

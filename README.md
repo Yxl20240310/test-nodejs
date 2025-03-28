@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-简介
-=======
-<<<<<<< HEAD
 # 简介
-=======
-简介
->>>>>>> 179ebec72b1dee4a7bceeaab396d4b50a6f94364
->>>>>>> a307e195ebcefb92ad34fe24bc72a635eef64b60
 
 Node. js HTTP 项目的模板。
 

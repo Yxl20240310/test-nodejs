@@ -17,7 +17,7 @@
 # 说明
 >>>>>>> e06aa839121aaf2f0740ecd27c20a16464935ad5
 =======
-# 简介
+# 说明
 >>>>>>> 58ae8ca84e497f7b3c3ce8f92e5e1ccaa7d48f6c
 
 Node. js HTTP 项目的模板。
